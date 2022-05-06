@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAD/////////AE9ERERERPTwT1RVVVVV9fBEVGZmZmb18ERlYfFmZvXwRGUWZvZv9fBEZWFh9m/18ERlZmb2b/XwRGVmZvZv9fBEVWb2Zmb18ERUZmZmZvXwT1RVVVVV9QBPRERERET0AP////////8AAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "bizo"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
